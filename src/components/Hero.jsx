@@ -1,12 +1,33 @@
-import WarpShader from './ui/warp-shader.jsx';
+import { lazy, Suspense } from 'react';
 import { LiquidButton } from './ui/liquid-glass-button.jsx';
 import { WA_TEXT } from '../data.js';
+
+// Loaded only in the browser. During the server prerender, `window` is
+// undefined so the import never resolves and <Suspense> renders the static
+// gradient fallback instead — keeping WebGL/Three.js out of the SSR build.
+const WarpShader = lazy(() =>
+  typeof window === 'undefined'
+    ? new Promise(() => {})
+    : import('./ui/warp-shader.jsx')
+);
+
+const ShaderFallback = () => (
+  <div
+    className="h-full w-full"
+    style={{
+      background:
+        'linear-gradient(135deg, hsl(200,100%,12%), hsl(180,90%,25%), hsl(160,100%,30%))',
+    }}
+  />
+);
 
 export default function Hero() {
   return (
     <section className="relative min-h-screen overflow-hidden bg-black">
       <div className="absolute inset-0">
-        <WarpShader />
+        <Suspense fallback={<ShaderFallback />}>
+          <WarpShader />
+        </Suspense>
       </div>
 
       <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/10 to-black/60 pointer-events-none" />
