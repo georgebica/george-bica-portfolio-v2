@@ -1,0 +1,175 @@
+GEORGE BICA — WEB DESIGNER FREELANCE (ROMÂNIA)
+Bază de cunoștințe pentru agentul AI / knowledge base
+Sursă: https://georgebica.github.io/george-bica-portfolio-v2/
+Actualizat: 2026-06-11
+
+====================================================================
+DESPRE
+====================================================================
+George Bica este web designer freelance din România. Construiește
+site-uri rapide, mobile-first, optimizate pentru Google (SEO),
+livrate în 2–14 zile. Tarife clare începând de la 600 lei.
+
+Mesaj principal: „Site-uri care aduc clienți, nu doar arată bine.”
+
+Pentru cine: afaceri mici din România care vor să arate profesionist
+repede, nu peste 3 luni.
+
+Argumente cheie:
+- Demo gratuit în 48 de ore (vezi prima pagină reală, nu un mockup;
+  dacă nu-ți place, nu plătești nimic).
+- Cod propriu, nu șablon de WordPress.
+- SEO inclus în orice pachet.
+- Mobile-first: site-ul e construit întâi pentru telefon, apoi
+  adaptat pentru desktop.
+
+====================================================================
+SERVICII ȘI PREȚURI (în lei, TVA inclus)
+====================================================================
+
+1) PAGINĂ DE PREZENTARE PREMIUM — Pachet de start
+   Preț: de la 600 până la 900 lei
+   Pentru cei care au nevoie rapid de o prezență profesională online.
+   Include:
+   - O pagină de prezentare optimizată pentru conversie
+   - Design personalizat (fără șabloane)
+   - Secțiuni: Hero, Servicii, Despre, Testimoniale, Contact
+   - Buton WhatsApp și contact rapid
+   - Formular de contact
+   - SEO de bază inclus
+   - Adaptare mobilă și tabletă
+   - Conectare Google Maps
+   - Viteză optimizată
+   - Livrare în 2–4 zile
+   Ideal pentru: freelanceri, meșteri, consultanți, servicii locale.
+
+2) WEBSITE DE BUSINESS — Pachetul recomandat
+   Preț: de la 950 până la 1400 lei
+   Site complet pentru firme care vor să atragă clienți din Google.
+   Include:
+   - 4–6 pagini (Acasă, Servicii, Despre, Contact + extra)
+   - Design personalizat
+   - SEO + optimizare pentru Google și AI Search
+   - Formular contact / cerere ofertă
+   - Panou pentru editarea textelor și imaginilor
+   - Galerie lucrări / portofoliu
+   - Schema Markup pentru rezultate Google
+   - Integrare Google Analytics
+   - Integrare Google Search Console
+   - WhatsApp și CTA-uri optimizate
+   - Viteză și performanță optimizate
+   - Livrare în 4–7 zile
+   Ideal pentru: firme de servicii, clinici, saloane, construcții, agenții.
+
+3) PREMIUM BUSINESS+ — Soluție completă
+   Preț: de la 2500 lei
+   Pentru afaceri care vor mai mult decât un site:
+   automatizare și generare de lead-uri.
+   Include:
+   - Tot ce este inclus în Website de Business
+   - 8–15 pagini personalizate
+   - Sistem de programări online
+   - Dashboard administrare conținut
+   - Blog optimizat SEO
+   - Multilingv (RO + EN)
+   - Integrare CRM
+   - Automatizări email
+   - Tracking conversii și lead-uri
+   - Integrare Meta Pixel
+   - Integrare Google Ads Tracking
+   - Pagini dedicate pentru servicii și locații
+   - Prioritate la suport
+   - Mentenanță 3 luni inclusă
+   - Training video pentru utilizare
+   - Livrare în 7–14 zile
+
+Costuri recurente: domeniu + hosting ~120 lei/an.
+Notă preț: fără „de la” scris cu litere mărunte — prețul afișat e ce plătești.
+
+====================================================================
+PROCESUL DE LUCRU (de la mesaj la lansare)
+====================================================================
+Pasul 01 — Brief pe WhatsApp (15 minute):
+  Îmi spui ce faci, cine sunt clienții și ce vrei să facă vizitatorii
+  pe site. Atât.
+
+Pasul 02 — Demo gratuit în 48 de ore:
+  Vezi prima pagină reală, nu un mockup. Dacă nu-ți place, nu plătești
+  nimic.
+
+Pasul 03 — Dezvoltare + două runde de revizii:
+  Construiesc restul site-ului și ajustăm până e exact cum vrei.
+
+Pasul 04 — Lansare + predare:
+  Domeniu configurat, Google Search Console, ghid scurt video.
+  Îți arăt cum să administrezi site-ul. Site-ul e al tău.
+
+====================================================================
+PROIECTE REALIZATE (site-uri live, cu clienți reali)
+====================================================================
+- AUTO LCD (https://auto-lcd.ro) — Service auto · 2026
+  Programări online, listă servicii, hartă atelier. Mobile-first
+  pentru clienții pe drum.
+
+- Kreativ Art Design (https://kreativartdesign.ro) — Atelier creativ · 2026
+  Galerie lucrări, comenzi personalizate, formulare scurte care convertesc.
+
+- Platinum Dental (https://platinumdental.ro) — Stomatologie · 2025
+  Pagini servicii clare, programări WhatsApp, dovezi sociale vizibile
+  pe telefon.
+
+- Tires Mobile Slatina (https://tiresmobileslatina.ro) — Vulcanizare mobilă · 2026
+  Buton sună-acum, zonă de acoperire, sezon vară/iarnă — totul pe mobil.
+
+====================================================================
+DOMENII / INDUSTRII DESERVITE
+====================================================================
+Auto / Service, Stomatologie, Atelier creativ, Vulcanizare,
+Restaurante, Saloane, Cabinete, Construcții.
+
+====================================================================
+ÎNTREBĂRI FRECVENTE (FAQ)
+====================================================================
+Î: Pot să-mi editez singur site-ul după?
+R: Da. La pachetele de la 950 lei în sus primești zonă admin sau CMS
+   prin care editezi text, imagini și pagini fără să mă suni.
+
+Î: Cât costă mentenanța după primul an?
+R: Hostingul + domeniul costă ~150 lei/an. Mentenanță activă
+   (modificări lunare, monitorizare) — opțional, 80 lei/lună.
+   Nu e obligatoriu.
+
+Î: Ce înseamnă „mobile-first”?
+R: Peste 70% din vizitatori vor intra de pe telefon. Construiesc
+   site-ul mai întâi pentru telefon, apoi îl adaptez pentru desktop —
+   invers față de majoritatea.
+
+Î: Cum apare site-ul pe Google?
+R: Toate site-urile pleacă cu SEO on-page corect: titluri, descrieri,
+   schema markup, sitemap, viteză. Apariția în primele rezultate locale
+   durează 4–8 săptămâni, fără trucuri.
+
+Î: Fac și magazine online?
+R: Da, dar doar la pachetul Premium Business+.
+
+====================================================================
+CONTACT
+====================================================================
+WhatsApp / telefon: 0768 486 096 (+40 768 486 096)
+WhatsApp link: https://wa.me/40768486096
+Email: george.bica@hotmail.com
+Program: luni — sâmbătă, 09:00 — 20:00
+Răspuns: în aceeași zi, cu o estimare clară.
+
+Următorul pas: scrii pe WhatsApp ce afacere ai → primești o estimare
+azi și un demo în 48 de ore. Fără formulare lungi.
+
+====================================================================
+DATE STRUCTURATE (pe scurt)
+====================================================================
+Tip: ProfessionalService (web design)
+Zonă deservită: România
+Interval prețuri: de la 600 RON (Premium Business+ de la 2500 RON)
+Telefon: +40768486096
+Email: george.bica@hotmail.com
+Tehnologii: React, Tailwind CSS (cod propriu, nu WordPress)

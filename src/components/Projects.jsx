@@ -27,13 +27,37 @@ export default function Projects() {
               rel="noopener noreferrer"
               className="group relative flex flex-col overflow-hidden rounded-2xl border border-white/10 bg-white/[0.02] hover:border-white/25 hover:bg-white/[0.04] transition-all duration-500"
             >
-              <div className="aspect-[16/10] overflow-hidden border-b border-white/10">
-                <img
-                  src={shot(p.url)}
-                  alt={p.title}
-                  loading="lazy"
-                  className="h-full w-full object-cover object-top transition-transform duration-700 ease-out group-hover:scale-[1.04]"
-                />
+              <div className="relative aspect-[16/10] overflow-hidden border-b border-white/10 bg-black">
+                {p.live ? (
+                  <>
+                    {/* Live preview: render the real site at a desktop viewport
+                        (250% of card width) and scale it back down to fit, so the
+                        animated 3D hero is visible. pointer-events stay off the
+                        iframe so the whole card still links through. */}
+                    <iframe
+                      src={p.url}
+                      title={p.title}
+                      loading="lazy"
+                      scrolling="no"
+                      tabIndex={-1}
+                      aria-hidden="true"
+                      className="absolute top-0 left-0 origin-top-left border-0 pointer-events-none"
+                      style={{ width: '250%', height: '250%', transform: 'scale(0.4)' }}
+                    />
+                    {/* transparent overlay keeps hover/scale + click on the card */}
+                    <span className="absolute inset-0 z-10 transition-transform duration-700 ease-out group-hover:scale-[1.04]" />
+                    <span className="pointer-events-none absolute bottom-3 right-3 z-20 rounded-full bg-black/70 px-2.5 py-1 text-[10px] font-medium uppercase tracking-wider text-emerald-300/90 backdrop-blur">
+                      Live
+                    </span>
+                  </>
+                ) : (
+                  <img
+                    src={shot(p.url)}
+                    alt={p.title}
+                    loading="lazy"
+                    className="h-full w-full object-cover object-top transition-transform duration-700 ease-out group-hover:scale-[1.04]"
+                  />
+                )}
               </div>
               <div className="p-6 md:p-8 flex flex-col gap-3">
                 <span className="text-xs uppercase tracking-widest text-emerald-300/70">{p.tag}</span>

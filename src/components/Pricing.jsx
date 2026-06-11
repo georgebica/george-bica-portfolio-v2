@@ -52,7 +52,7 @@ export default function Pricing() {
               <div className="mt-6 flex items-baseline gap-2">
                 <span className="text-xs text-white/50">de la</span>
                 <span className="text-5xl font-light text-white tracking-tighter">{t.from}</span>
-                <span className="text-white/60 text-base">–{t.to} lei</span>
+                <span className="text-white/60 text-base">{t.to ? `–${t.to} lei` : 'lei'}</span>
               </div>
 
               <a
@@ -83,6 +83,11 @@ export default function Pricing() {
                     </li>
                   ))}
                 </ul>
+                {t.idealFor && (
+                  <p className="mt-6 pt-5 border-t border-white/10 text-xs text-white/45 leading-relaxed">
+                    <span className="text-white/60">Ideal pentru:</span> {t.idealFor}
+                  </p>
+                )}
               </div>
             </div>
           ))}
